@@ -11,7 +11,7 @@ Blue Prints etc.
 UNDETECTED ✅
 Updated: 6/5/22
 
-Undetected ✅
-Detected ❌
-Unknown ⚠️
-Maintenance- 🛠️
+Undetected | ✅
+Detected | ❌
+Unknown  |⚠️
+Maintenance | 🛠️
